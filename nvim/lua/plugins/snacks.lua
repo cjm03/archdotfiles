@@ -5,7 +5,7 @@ return {
         lazy = false,
         opts = {
             explorer = {
-                enabled = true,
+                enabled = false,
                 layout = {
                     cycle = true,
                 }
@@ -94,16 +94,14 @@ return {
                 enabled = true,
                 sections = {
                     { section = "header" },
-                    { section = "keys", gap = 1, padding = 1 },
-                    { section = "startup" },
-                    {
-                        section = "terminal",
-                        cmd = "ascii-image-converter ~/Pictures/c-logo.png -C -c",
-                        random = 10,
-                        pane = 2,
-                        indent = 4,
-                        height = 30,
-                    },
+--                   {
+--                       section = "terminal",
+--                       cmd = "ascii-image-converter ~/Pictures/c-logo.png -C -c",
+--                       random = 10,
+--                       pane = 2,
+--                       indent = 4,
+--                       height = 30,
+--                   },
                 },
             },
         },

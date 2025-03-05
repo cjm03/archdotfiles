@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/catppuccin-mocha.toml",
+    "~/.config/alacritty/catppuccin-macchiato.toml",
 ]
 
 [colors]
@@ -8,7 +8,7 @@ transparent_background_colors = true
 draw_bold_text_with_bright_colors = true
 
 [colors.primary]
-background = "#1e1e2e"
+background = "#000000"
 
 [colors.cursor]
 cursor = "#d8dee9"
@@ -20,7 +20,7 @@ padding.x = 5
 padding.y = 2
 decorations = "Full"
 opacity = 0.75
-#blur = true
+blur = true
 dynamic_padding = true
 
 [mouse]
@@ -28,7 +28,7 @@ hide_when_typing = true
 
 [font]
 size = 14
-normal = { family = "JetBrainsMono Nerd Font Mono", style = "Medium" }
+normal = { family = "IosevkaTerm Nerd Font Mono", style = "Regular" }
 bold = { style = "Bold" }
 italic = { style = "Italic" }
 bold_italic = { style = "Bold" }

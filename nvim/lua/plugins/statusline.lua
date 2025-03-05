@@ -5,7 +5,7 @@ return {
         require("lualine").setup({
             options = {
                 icons_enabled = true,
-                theme = "catppuccin",
+                theme = "onedark",
                 section_separators = '',
                 component_separators = '',
                 globalstatus = true,
