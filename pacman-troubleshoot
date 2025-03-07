@@ -1,0 +1,13 @@
+If:
+  error: GPGME error: No data 
+  error: GPGME error: No data 
+  error: failed to synchronize all databases (invalid or corrupted database (PGP signature))
+
+Try:
+    1. Comment out all mirrors in /etc/pacman.d/mirrorlist
+    2. Copy mirrors from official US mirrorlist and paste into /etc/pacman.d/mirrorlist
+    3. sudo rm -R /var/lib/pacman/sync
+    4. sudo pacman-key --init
+    5. sudo pacman-key --populate archlinux
+    6. sudo -E pacman -Syu
+    7. sudo pacman -Syyu

@@ -1,17 +1,15 @@
 [general]
 import = [
-    "~/.config/alacritty/catppuccin-macchiato.toml",
+    "~/.config/alacritty/nord.toml",
 ]
 
+[env]
+TERM = "xterm-256color"
+
 [colors]
-transparent_background_colors = true
+transparent_background_colors = false
 draw_bold_text_with_bright_colors = true
 
-[colors.primary]
-background = "#000000"
-
-[colors.cursor]
-cursor = "#d8dee9"
 
 
 
@@ -19,7 +17,7 @@ cursor = "#d8dee9"
 padding.x = 5
 padding.y = 2
 decorations = "Full"
-opacity = 0.75
+#opacity = 0.75
 blur = true
 dynamic_padding = true
 
@@ -34,7 +32,7 @@ italic = { style = "Italic" }
 bold_italic = { style = "Bold" }
 
 [cursor]
-style = { shape = "Block", blinking = "Off" }
+style = { shape = "Block", blinking = "On" }
 
 
 

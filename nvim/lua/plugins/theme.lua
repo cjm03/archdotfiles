@@ -1,17 +1,30 @@
+--return {
+--   "dasupradyumna/midnight.nvim",
+--   lazy = false,
+--   priority = 1000,
+--   config = function()
+--       require("midnight").setup({
+--           colors = {
+--               palette = { bg = "#000000" },
+--           },
+--       })
+--       vim.cmd("colorscheme midnight")
+--   end
+--}
 return {
-    "dasupradyumna/midnight.nvim",
+    "AlexvZyl/nordic.nvim",
     lazy = false,
     priority = 1000,
     config = function()
-        require("midnight").setup({
-            colors = {
-                palette = { bg = "#000000" },
+        require('nordic').load({
+            italic_comments = false,
+            cursorline = {
+                theme = "dark",
             },
         })
-        vim.cmd("colorscheme midnight")
+        vim.cmd("colorscheme nordic")
     end
 }
-
 
 
 

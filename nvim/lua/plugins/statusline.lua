@@ -5,11 +5,13 @@ return {
         require("lualine").setup({
             options = {
                 icons_enabled = true,
-                theme = "onedark",
+                theme = "palenight", --prev: "modus-viviendi", "material", "nord"
                 section_separators = '',
                 component_separators = '',
-                globalstatus = true,
+                globalstatus = false,
             },
         })
     end
 }
+
+

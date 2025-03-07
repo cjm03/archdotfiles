@@ -2,8 +2,8 @@ vim.cmd("set expandtab")
 vim.cmd("set tabstop=4")
 vim.cmd("set softtabstop=4")
 vim.cmd("set shiftwidth=4")
-vim.cmd("set termguicolors")
 vim.cmd("set clipboard+=unnamedplus")
+--vim.cmd("set termguicolors")
 
 vim.opt.swapfile = false
 vim.opt.relativenumber = true
@@ -16,6 +16,8 @@ vim.opt.ignorecase = true
 vim.opt.smartcase = true
 vim.opt.showmode = false
 vim.opt.cmdheight = 0
+vim.opt.background = "dark"
+vim.opt.termguicolors = true
 
 vim.o.laststatus = 3
 
@@ -28,4 +30,12 @@ vim.keymap.set('n', '<leader>tx', '<cmd>tabclose<CR>', { desc = "Close current t
 vim.keymap.set('n', '<leader>tn', '<cmd>tabn<CR>', { desc = "Go to next tab" })
 vim.keymap.set('n', '<leader>tp', '<cmd>tabp<CR>', { desc = "Go to previous tab" })
 vim.keymap.set('n', '<leader>tf', '<cmd>tabnew %<CR>', { desc = "Open current buffer in new tab" })
+
+-- panes
+vim.keymap.set('n', '<c-k>', ':wincmd k<CR>')
+vim.keymap.set('n', '<c-j>', ':wincmd j<CR>')
+vim.keymap.set('n', '<c-h>', ':wincmd h<CR>')
+vim.keymap.set('n', '<c-l>', ':wincmd l<CR>')
+
+
 
