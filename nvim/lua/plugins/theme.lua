@@ -21,6 +21,10 @@ return {
             cursorline = {
                 theme = "dark",
             },
+            transparent = {
+                bg = true,
+                float = true,
+            },
         })
         vim.cmd("colorscheme nordic")
     end
