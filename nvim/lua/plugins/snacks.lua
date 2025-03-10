@@ -4,6 +4,10 @@ return {
         priority = 1000,
         lazy = false,
         opts = {
+            image = {
+                enabled = true,
+                doc = { enabled = true, },
+            },
             explorer = {
                 enabled = false,
                 layout = {

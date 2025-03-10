@@ -5,7 +5,7 @@ return {
         require("lualine").setup({
             options = {
                 icons_enabled = true,
-                theme = "nord", --prev: "modus-viviendi", "material", "nord"
+                theme = "nordic", --prev: "modus-viviendi", "material", "nord"
                 section_separators = '',
                 component_separators = '',
                 globalstatus = false,
@@ -13,5 +13,6 @@ return {
         })
     end
 }
+
 
 
