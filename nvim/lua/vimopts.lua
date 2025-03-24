@@ -3,6 +3,7 @@ vim.cmd("set tabstop=4")
 vim.cmd("set softtabstop=4")
 vim.cmd("set shiftwidth=4")
 vim.cmd("set clipboard+=unnamedplus")
+--vim.cmd("set signcolumn=number")
 
 vim.opt.swapfile = false
 vim.opt.relativenumber = true
@@ -17,7 +18,9 @@ vim.opt.showmode = false
 vim.opt.cmdheight = 0
 vim.opt.background = "dark"
 vim.opt.termguicolors = true
+vim.opt.fillchars:append { vert = " " }
 
+vim.o.signcolumn = "yes"
 vim.o.laststatus = 3
 
 vim.g.mapleader = " "
@@ -36,5 +39,5 @@ vim.keymap.set('n', '<c-j>', ':wincmd j<CR>')
 vim.keymap.set('n', '<c-h>', ':wincmd h<CR>')
 vim.keymap.set('n', '<c-l>', ':wincmd l<CR>')
 
-
+vim.api.nvim_set_hl(0, "WinSeparator", { fg = "#303446", bg = "NONE" })
 

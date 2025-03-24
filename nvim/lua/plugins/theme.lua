@@ -1,34 +1,76 @@
 --return {
---   "dasupradyumna/midnight.nvim",
---   lazy = false,
---   priority = 1000,
---   config = function()
---       require("midnight").setup({
+--    "rebelot/kanagawa.nvim",
+--    priority = 1000,
+--    config = function()
+--        require("kanagawa").setup({
+--
+--        })
+--        vim.cmd("colorscheme kanagawa-lotus")
+--    end
+--}
+
+--return {
+--    "yorik1984/newpaper.nvim",
+--    priority = 1000,
+--    config = function()
+--        require("newpaper").setup({
+--            style = "light"
+--        })
+--        vim.cmd("colorscheme newpaper")
+--    end
+--}
+
+--return {
+--  "catppuccin/nvim",
+--  name = "catppuccin",
+--  priority = 1000,
+--  config = function()
+--       require("catppuccin").setup({
+--           flavour = "frappe",
+--           transparent_background = true,
+--           integrations = { nvimtree = false, },
+--           custom_highlights = function(colors)
+--               return {
+--                   TabLineSel = { bg = colors.mantle },
+--                   CmpBorder = { fg = colors.mantle },
+--                   LineNr = { fg = colors.mantle },
+--               }
+--           end,
+--       })
+--       vim.cmd("colorscheme catppuccin")
+--  end
+--}
+return {
+   "dasupradyumna/midnight.nvim",
+   lazy = false,
+   priority = 1000,
+   config = function()
+       require("midnight").setup({
 --           colors = {
 --               palette = { bg = "#000000" },
 --           },
---       })
---       vim.cmd("colorscheme midnight")
---   end
---}
-return {
-    "AlexvZyl/nordic.nvim",
-    lazy = false,
-    priority = 1000,
-    config = function()
-        require('nordic').load({
-            italic_comments = false,
-            cursorline = {
-                theme = "dark",
-            },
-            transparent = {
-                bg = true,
-                float = true,
-            },
-        })
-        vim.cmd("colorscheme nordic")
-    end
+       })
+       vim.cmd("colorscheme midnight")
+   end
 }
+--return {
+--    "AlexvZyl/nordic.nvim",
+--    lazy = false,
+--    priority = 1000,
+--    config = function()
+--        require('nordic').load({
+--            italic_comments = false,
+--            cursorline = {
+--                theme = "dark",
+--            },
+--            transparent = {
+--                bg = true,
+--                float = true,
+--            },
+--        })
+--        vim.cmd("colorscheme nordic")
+--    end
+--}
 
 
 
