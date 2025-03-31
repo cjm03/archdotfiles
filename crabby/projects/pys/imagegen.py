@@ -5,7 +5,7 @@ width, height = 2560, 1440
 
 # Colors
 bg_color = (8, 12, 16)  # Hex #080c10
-dot_color = (29, 29, 29)  # Hex #292929 prev: #191919
+dot_color = (8, 12, 16)  # Hex #292929 prev: #191919
 
 # Dot properties
 dot_size = 2  # Small dot size
