@@ -5,17 +5,21 @@ font pango:IosevkaTerm Nerd Font Mono, Regular 8
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
-exec --no-startup-id xrandr --output DP-0 --left-of DP-2 --rotate left
-exec_always --no-startup-id feh --bg-scale ~/Pictures/wallpapers/pleaves.jpg
+exec_always --no-startup-id xset s off
+exec_always --no-startup-id xset -dpms
+#exec --no-startup-id xrandr --output DP-0 --below DP-2
+#exec --no-startup-id xrandr --output DP-2 --left-of DP-0 --rotate left
+exec_always --no-startup-id feh --bg-fill ~/Pictures/wallpapers/darkmystery.png ~/Pictures/wallpapers/frontdoor.png
+#exec_always --no-startup-id feh --bg-scale ~/Pictures/wallpapers/darkmystery.png
 exec_always --no-startup-id xset r rate 175 100
 #exec --no-startup-id picom --config ~/.config/picom/picom.conf
 exec_always --no-startup-id $HOME/.config/polybar/launch_polybar.sh
 #hide_edge_borders none
-hide_edge_borders smart
-#default_border none
-default_border pixel 4
-gaps inner 4
-gaps outer 4
+#hide_edge_borders smart
+default_border none
+#default_border pixel 4
+#gaps inner 4
+#gaps outer 4
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status

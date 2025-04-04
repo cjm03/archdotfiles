@@ -18,15 +18,16 @@ padding.x = 5
 padding.y = 2
 decorations = "Full"
 #opacity = 0.75
-blur = true
+blur = false
 dynamic_padding = true
 
 [mouse]
 hide_when_typing = true
 
 [font]
-size = 14
-normal = { family = "IosevkaTerm Nerd Font Mono", style = "Regular" }
+size = 12
+normal = { family = "Hack Nerd Font Mono", style = "Regular" }
+#normal = { family = "IosevkaTerm Nerd Font Mono", style = "Medium" }
 bold = { style = "Bold" }
 italic = { style = "Italic" }
 bold_italic = { style = "Bold" }

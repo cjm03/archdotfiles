@@ -1,5 +1,10 @@
 /*
 Programmer: Charles Moye
+
+Program may be utilized with ./my_wc [options] < FILE
+First the options will be parsed and the file will begin processing. Words will be added to the structure, and the capacity of words will scale with the length of the text, meaning
+if the file will exceed 40 bytes, the buffer will increment, same with the words. Finally, as per the user's instructions the respective functions will output their findings to the
+user.
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -10,6 +15,7 @@ Programmer: Charles Moye
 #define INIT_BUFFER_SIZE 40
 #define WORD_LIST_INCR 5
 
+/* create structure to hold information about the words weve seen */
 typedef struct {
     char *word;
     int count;
@@ -28,8 +34,12 @@ void print_counts(int print_lines, int print_words, int print_chars, int print_f
 void free_memory();
 void print_help();
 
+/* main: determine the parts of the program the user would like to utilize (or choose for them) 
+ * allocate initial memory to store information about the words
+ * call functions to process the file and print results, and then free the mem*/
 int main(int argc, char *argv[])
 {
+    // use getopt to gather options from command line and enable the variables pertaining to the user's options
     int opt;
     int print_lines = 0, print_words = 0, print_chars = 0, print_freq = 0;
 
@@ -40,7 +50,7 @@ int main(int argc, char *argv[])
             case 'w': print_words = 1; break;
             case 'f': print_freq = 1; break;
             case 'v': print_lines = print_chars = print_words = print_freq = 1; break;
-            case 'h': print_help(); return 0;
+            case 'h': print_help(); return 0; 
             case 'd': debug_mode = 1; break;
             default:
                 fprintf(stderr, "Invalid option. Use -h for help\n");
@@ -66,7 +76,7 @@ int main(int argc, char *argv[])
 
     return 0;
 }
-
+/* process_input: gather all the information we can from the file */
 void process_input() {
     char *buffer = malloc(INIT_BUFFER_SIZE);
     if (!buffer) {
@@ -79,15 +89,17 @@ void process_input() {
     char word[128];
     int word_index = 0;
     int in_word = 0;
-
+    
+    // iterate until we find EOF
     while (1) {
         int ch = getchar();
         if (ch == EOF) break;
 
         char_count++;
-
+        // increment line count when newline character discovered
         if (ch == '\n') line_count++;
-
+        
+        // when we feel the buffer getting a little too close to its maximum, give it some more mem
         if (index >= buffer_size - 1) {
             buffer_size += INIT_BUFFER_SIZE;
             buffer = realloc(buffer, buffer_size);
@@ -100,7 +112,8 @@ void process_input() {
 
         buffer[index++] = ch;
         buffer[index] = '\0';
-
+        
+        // trust that a space is the only thing dividing up the words...
         if (isspace(ch)) {
             if (in_word) {
                 word[word_index] = '\0';
@@ -116,7 +129,7 @@ void process_input() {
             in_word = 1;
         }
     }
-
+    // be free
     free(buffer);
 }
 
@@ -130,7 +143,7 @@ void add_word(const char *word) {
         }
     }
 
-    // New word, add to list
+    // New word, add to list. Just as before, give it some more mem when it starts creeping up...
     if (word_list_size >= word_list_capacity) {
         word_list_capacity += WORD_LIST_INCR;
         word_list = realloc(word_list, word_list_capacity * sizeof(word_info));
@@ -140,7 +153,7 @@ void add_word(const char *word) {
         }
         if (debug_mode) fprintf(stderr, "DEBUG    Expanded word list to %d words.\n", word_list_capacity);
     }
-
+    // dupe the word despite the AG's concern
     word_list[word_list_size].word = strdup(word);
     word_list[word_list_size].count = 1;
     word_list_size++;
@@ -169,7 +182,7 @@ void free_memory() {
     free(word_list);
 }
 
-// Prints program usage
+// Prints program usage, took forever...
 void print_help() {
     //printf("Usage: my_wc.o [options] < input.txt\n");
     //printf("Options:\n");

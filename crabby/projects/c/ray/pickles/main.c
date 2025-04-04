@@ -44,7 +44,6 @@ void applyVelocity(Sprite* sprite)
     sprite->dest_rect.y += sprite->vel.y * GetFrameTime();
 }
 
-std::vector<Sprite> load_level() {}
 
 int main()
 {
