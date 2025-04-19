@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "8e42fab0-cf72-4f22-a643-7ecd88c9e57a",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "a94f4d7e-de6e-4f6e-8c60-aa0b2c5ab190",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 3.0
+    },
+    "Rotation": 90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"highqualitypseudo\",\"Quantity\":10,\"Quality\":\"Premium\"}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"highqualitypseudo\",\"Quantity\":10,\"Quality\":\"Premium\"}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"highqualitypseudo\",\"Quantity\":10,\"Quality\":\"Premium\"}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"highqualitypseudo\",\"Quantity\":10,\"Quality\":\"Premium\"}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"highqualitypseudo\",\"Quantity\":8,\"Quality\":\"Premium\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"granddaddypurple\",\"Quantity\":9,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"miracledurkle\",\"Quantity\":3,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

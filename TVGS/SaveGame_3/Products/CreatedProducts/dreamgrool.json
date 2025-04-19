@@ -1,0 +1,26 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Dream Grool",
+    "ID": "dreamgrool",
+    "DrugType": 2,
+    "Properties": [
+        "Euphoric",
+        "toxic"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 252,
+            "b": 237,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 223,
+            "g": 230,
+            "b": 186,
+            "a": 255
+        }
+    }
+}

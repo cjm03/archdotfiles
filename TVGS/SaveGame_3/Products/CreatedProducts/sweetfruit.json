@@ -1,0 +1,32 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Sweet Fruit",
+    "ID": "sweetfruit",
+    "DrugType": 1,
+    "Properties": [
+        "gingeritis",
+        "slippery",
+        "spicy",
+        "brighteyed",
+        "thoughtprovoking",
+        "tropicthunder",
+        "electrifying",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 207,
+            "b": 169,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 226,
+            "g": 209,
+            "b": 190,
+            "a": 255
+        }
+    }
+}

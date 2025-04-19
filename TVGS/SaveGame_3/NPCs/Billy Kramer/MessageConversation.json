@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 13,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 70974921,
+            "Text": "Alright cool, I'll meet you <b>behind the shipping containers at the docks</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1844553949,
+            "Text": "Hey, I need 1x Ice Cream Shart. I'll pay <color=#46CB4F>$1,280</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1681698989,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1690671772,
+            "Text": "Ok, I'll meet you <b>in the central canal near the car wash</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1773370306,
+            "Text": "Hello, I'm after 1x Banana Cum. I can pay <color=#46CB4F>$1,180</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -429167834,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1252698575,
+            "Text": "Ok, I'll meet you <b>Behind Randy's bait & tackle</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1169099780,
+            "Text": "Hey, if you got 1x Banana Cum I'll pay <color=#46CB4F>$1,180</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1822875416,
+            "Text": "How about 2x Banana Cum for $2,300?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 362089607,
+            "Text": "Nope - nevermind",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

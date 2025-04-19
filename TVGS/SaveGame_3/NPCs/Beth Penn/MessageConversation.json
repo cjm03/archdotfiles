@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 65,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 75470275,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1286980094,
+            "Text": "Great, I'll meet you <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 925596873,
+            "Text": "Hey, I need 1x Afghan Cake. I'll pay <color=#46CB4F>$395</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1535536427,
+            "Text": "How about 1x Afghan Cake for $415?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 46636768,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 76191355,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1977679223,
+            "Text": "Great, I'll meet you <b>at the basketball court</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1562489236,
+            "Text": "Hello, I'm after 1x Afghan Cake. I can pay <color=#46CB4F>$395</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -844482958,
+            "Text": "How about 2x Afghan Cake for $705?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 312560444,
+            "Text": "I don't think so. Nevermind",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 7,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1032316568,
+            "Text": "Cheers bro, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -671439071,
+            "Text": "Ay bro you got 1x Banana Cum? I'll pay <color=#46CB4F>$1,115</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -943081282,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2115242950,
+            "Text": "Hell yeah my friend, I'll meet you <b>at the basketball court</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 465414268,
+            "Text": "Yo homie, can I get 1x Ice Cream Shart? I'll pay <color=#46CB4F>$1,210</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 544581338,
+            "Text": "How about 2x Ice Cream Shart for $2,110?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1756025097,
+            "Text": "You crazy bro? No thanks",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -177335864,
+            "Text": "Yo homie, can I get 1x Ice Cream Shart? I'll pay <color=#46CB4F>$1,210</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1263696427,
+            "Text": "How about 2x Ice Cream Shart for $2,010?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1085977605,
+            "Text": "No way man",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

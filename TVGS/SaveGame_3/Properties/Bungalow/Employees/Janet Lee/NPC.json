@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "janet_lee",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Janet",
+    "LastName": "Lee",
+    "IsMale": false,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": -168.64334106445313,
+        "y": -4.046849250793457,
+        "z": 110.67961883544922
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6941209435462952,
+        "z": 0.0,
+        "w": 0.7198584079742432
+    },
+    "GUID": "3140c3fb-3ad9-4ab2-951d-48b52f210dda",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

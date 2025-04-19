@@ -1,0 +1,45 @@
+{
+    "DataType": "PackagerConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Bed": {
+        "ObjectGUID": "e694f7e2-f6fa-4f01-93f8-f06f3ced85b6"
+    },
+    "Stations": {
+        "ObjectGUIDs": []
+    },
+    "Routes": {
+        "Routes": [
+            {
+                "SourceGUID": "80cacfe0-a0b0-4d7d-a51f-98b5f6d7c295",
+                "DestinationGUID": "2e9f41fb-fcd7-43b1-ac63-ec67a416b81c",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "80cacfe0-a0b0-4d7d-a51f-98b5f6d7c295",
+                "DestinationGUID": "18ac08bc-7136-4d95-8611-56ad2b49be59",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "80cacfe0-a0b0-4d7d-a51f-98b5f6d7c295",
+                "DestinationGUID": "3d55b985-26ca-4db3-a9ff-439b6ff6b468",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "80cacfe0-a0b0-4d7d-a51f-98b5f6d7c295",
+                "DestinationGUID": "5bfb0afa-7ba7-4343-98df-03a409812bbc",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "80cacfe0-a0b0-4d7d-a51f-98b5f6d7c295",
+                "DestinationGUID": "228bba90-f380-40fb-8995-1d42907764f4",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            }
+        ]
+    }
+}

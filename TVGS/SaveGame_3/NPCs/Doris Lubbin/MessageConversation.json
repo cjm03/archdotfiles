@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 60,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1034436217,
+            "Text": "Hello, I'm after 1x Afghan Cake. I can pay <color=#46CB4F>$440</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1555467300,
+            "Text": "How about 1x Afghan Cake for $440?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1261311564,
+            "Text": "I guess that's fine. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1672536701,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1250329145,
+            "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -432287688,
+            "Text": "Hey, can I get 1x Afghan Cake? I'll pay <color=#46CB4F>$440</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -565276560,
+            "Text": "How about 1x Afghan Cake for $470?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 446930279,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -596219416,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1607721712,
+            "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

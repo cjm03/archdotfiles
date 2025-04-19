@@ -1,0 +1,42 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "LA Shart",
+    "ID": "lashart",
+    "DrugType": 0,
+    "Properties": [
+        "sedating",
+        "balding",
+        "foggy",
+        "brighteyed",
+        "tropicthunder",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 83,
+            "g": 88,
+            "b": 95,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 128,
+            "g": 109,
+            "b": 93,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 105,
+            "g": 98,
+            "b": 94,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 66,
+            "g": 70,
+            "b": 76,
+            "a": 255
+        }
+    }
+}

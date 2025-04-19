@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "william_nguyen",
+    "AssignedProperty": "barn",
+    "FirstName": "William",
+    "LastName": "Nguyen",
+    "IsMale": true,
+    "AppearanceIndex": 6,
+    "Position": {
+        "x": 190.027099609375,
+        "y": 0.09000015258789063,
+        "z": -9.824442863464356
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.7064590454101563,
+        "z": 0.0,
+        "w": -0.7077538967132568
+    },
+    "GUID": "7aceb160-5e9b-4f78-9599-626c2cc3e509",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

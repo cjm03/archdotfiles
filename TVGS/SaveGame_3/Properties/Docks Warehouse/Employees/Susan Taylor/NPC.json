@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "susan_taylor",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Susan",
+    "LastName": "Taylor",
+    "IsMale": false,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": -76.9745864868164,
+        "y": -2.429999828338623,
+        "z": -65.2120361328125
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.061317648738622668,
+        "z": 0.0,
+        "w": 0.9981183409690857
+    },
+    "GUID": "93dd3648-a070-416c-8c96-da4535062add",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

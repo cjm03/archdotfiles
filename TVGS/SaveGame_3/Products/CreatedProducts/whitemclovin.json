@@ -1,0 +1,28 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "White McLovin",
+    "ID": "whitemclovin",
+    "DrugType": 1,
+    "Properties": [
+        "gingeritis",
+        "sneaky",
+        "thoughtprovoking",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 202,
+            "g": 202,
+            "b": 202,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 228,
+            "g": 204,
+            "b": 185,
+            "a": 255
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Girl Scout Crystal",
+    "ID": "girlscoutcrystal",
+    "DrugType": 2,
+    "Properties": [
+        "Euphoric",
+        "sneaky",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 252,
+            "b": 237,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 228,
+            "g": 224,
+            "b": 201,
+            "a": 255
+        }
+    }
+}

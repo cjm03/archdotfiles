@@ -1,0 +1,28 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Aspen Balls",
+    "ID": "aspenballs",
+    "DrugType": 2,
+    "Properties": [
+        "sneaky",
+        "sedating",
+        "slippery",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 206,
+            "g": 204,
+            "b": 228,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 191,
+            "g": 189,
+            "b": 208,
+            "a": 255
+        }
+    }
+}

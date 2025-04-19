@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 38,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1327167646,
+            "Text": "Ok, I'll meet you <b>behind the pawn shop</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1303451164,
+            "Text": "Hey, if you got 1x Afghan Cake I'll pay <color=#46CB4F>$395</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1146744547,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1090944101,
+            "Text": "You got 1x Afghan Cake? I'll pay <color=#46CB4F>$395</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 847873320,
+            "Text": "nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1782365350,
+            "Text": "Hey, can I get 1x Afghan Cake? I'll pay <color=#46CB4F>$395</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -752839184,
+            "Text": "How about 1x Afghan Cake for $425?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 624214029,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1804475779,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1642606640,
+            "Text": "Alright cool, I'll meet you <b>under the west bridge</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

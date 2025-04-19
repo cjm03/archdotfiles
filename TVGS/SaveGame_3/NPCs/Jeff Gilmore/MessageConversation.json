@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 54,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 1489976828,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 246249279,
+            "Text": "Sick as, I'll meet you <b>in the central canal near the car wash</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 506864842,
+            "Text": "Whats up bro, I'm after 1x Afghan Cake. I can pay <color=#46CB4F>$370</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1471059572,
+            "Text": "How about 1x Afghan Cake for $430?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -996945068,
+            "Text": "I guess that's fine bro. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1028656597,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1849371960,
+            "Text": "Cheers bro, I'll meet you <b>behind the Crimson Canary</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1585328744,
+            "Text": "Ay bro you got 1x Afghan Cake? I'll pay <color=#46CB4F>$375</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -493777116,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -706010134,
+            "Text": "Sweet as homie, I'll meet you <b>behind the Crimson Canary</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

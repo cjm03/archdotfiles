@@ -1,0 +1,28 @@
+{
+    "DataType": "DeaddropQuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "ab2bda6f-2ec6-4d60-9acf-1ee8ff609afd",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Collect Dead Drop",
+    "Description": "Collect the dead drop in the alleyway behind the grocery store",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "Alleyway behind grocery store",
+            "State": 2
+        }
+    ],
+    "DeaddropGUID": "5aeef10c-955d-4fdb-9061-38f4ad7a6289"
+}

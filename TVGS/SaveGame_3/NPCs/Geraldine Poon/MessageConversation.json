@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 4,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 872859758,
+            "Text": "nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1695097532,
+            "Text": "U got 1x Banana Cum??? I'll pay <color=#46CB4F>$1,245</color> for it. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1632171415,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1139577267,
+            "Text": "Good!! I'll see u <b>next to the barbershop</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1549661298,
+            "Text": "I NEED 1x Banana Cum. I GOT <color=#46CB4F>$1,245</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1849972491,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1322570107,
+            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 689859562,
+            "Text": "I'm after 1x Ice Cream Shart. I can pay <color=#46CB4F>$1,280</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2126687511,
+            "Text": "How about 2x Ice Cream Shart for $2,080?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -446369422,
+            "Text": "Goddammit no. I'll just look elsewhere",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

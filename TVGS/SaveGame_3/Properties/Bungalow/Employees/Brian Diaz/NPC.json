@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "brian_diaz",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Brian",
+    "LastName": "Diaz",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": -168.98291015625,
+        "y": -3.9958698749542238,
+        "z": 111.9393081665039
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.667593240737915,
+        "z": 0.0,
+        "w": 0.744526207447052
+    },
+    "GUID": "bd363628-0ea0-4b49-ab38-a77bbd6cd0c0",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "DataType": "PropertyData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "PropertyCode": "barn",
+    "IsOwned": true,
+    "SwitchStates": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "ToggleableStates": []
+}

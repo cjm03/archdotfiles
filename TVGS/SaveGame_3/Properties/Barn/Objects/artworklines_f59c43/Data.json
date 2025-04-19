@@ -1,0 +1,20 @@
+{
+    "DataType": "SurfaceItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "f59c43bc-6a57-4126-a9b7-f4b6e0a085ce",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"artworklines\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 25,
+    "ParentSurfaceGUID": "0fa7ed8e-074d-4d9b-a7e9-65221a9aa99e",
+    "RelativePosition": {
+        "x": 2.249603271484375,
+        "y": -0.10999995470046997,
+        "z": 0.5306572318077087
+    },
+    "RelativeRotation": {
+        "x": 0.7071070075035095,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.7071065306663513
+    }
+}

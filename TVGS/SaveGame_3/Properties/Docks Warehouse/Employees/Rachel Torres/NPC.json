@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "rachel_torres",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Rachel",
+    "LastName": "Torres",
+    "IsMale": false,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": -72.255615234375,
+        "y": -2.429999828338623,
+        "z": -61.431556701660159
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.43003299832344057,
+        "z": 0.0,
+        "w": 0.902813196182251
+    },
+    "GUID": "51bc77a5-e584-48a4-be13-5db65e6fab83",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

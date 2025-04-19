@@ -1,0 +1,29 @@
+{
+    "DataType": "LabOvenData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "86534eb3-c9b1-46d3-847f-f22445306134",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"laboven\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "890b4b1a-139d-459d-86fe-78bc90f3adc6",
+    "OriginCoordinate": {
+        "x": 7.0,
+        "y": 11.0
+    },
+    "Rotation": 180,
+    "InputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "OutputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "CurrentIngredientID": "",
+    "CurrentIngredientQuantity": 0,
+    "CurrentIngredientQuality": 2,
+    "CurrentProductID": "",
+    "CurrentCookProgress": 0
+}

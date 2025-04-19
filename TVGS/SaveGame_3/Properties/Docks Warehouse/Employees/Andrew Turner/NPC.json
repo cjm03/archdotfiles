@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "andrew_turner",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Andrew",
+    "LastName": "Turner",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": -86.99376678466797,
+        "y": -2.2300002574920656,
+        "z": -45.641075134277347
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.2879175841808319,
+        "z": 0.0,
+        "w": 0.9576551914215088
+    },
+    "GUID": "23081e95-b387-4f80-9278-ec5baa95661b",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "DataType": "CauldronData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "4af92cd2-9f83-4a80-a5ac-505b0a68d5a9",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"cauldron\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "d47666ba-6076-4779-9c8a-ffede5ff83ad",
+    "OriginCoordinate": {
+        "x": 11.0,
+        "y": 4.0
+    },
+    "Rotation": -90,
+    "Ingredients": {
+        "Items": [
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Heavenly\"}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Heavenly\"}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Heavenly\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "Liquid": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"gasoline\",\"Quantity\":16}"
+        ]
+    },
+    "Output": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "RemainingCookTime": 153,
+    "InputQuality": 4
+}

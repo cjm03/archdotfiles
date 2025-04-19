@@ -1,0 +1,13 @@
+{
+    "Items": [
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"trimmers\",\"Quantity\":1}",
+        "{\"DataType\":\"WateringCanData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"wateringcan\",\"Quantity\":1,\"CurrentFillAmount\":11.60789680480957}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"ogkush\",\"Quantity\":9,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"ogkush\",\"Quantity\":11,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":370000.0}"
+    ]
+}

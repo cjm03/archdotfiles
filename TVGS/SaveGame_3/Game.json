@@ -1,0 +1,10 @@
+{
+    "DataType": "GameData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "OrganisationName": "crab",
+    "Seed": 2023442242,
+    "Settings": {
+        "ConsoleEnabled": true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "DataType": "CauldronConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Destination": {
+        "ObjectGUID": "a411b093-4e79-494e-be20-8d7e98cc708b"
+    }
+}

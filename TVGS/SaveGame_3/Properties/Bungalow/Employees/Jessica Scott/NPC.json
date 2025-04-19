@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "jessica_scott",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Jessica",
+    "LastName": "Scott",
+    "IsMale": false,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": -168.78916931152345,
+        "y": -4.036736965179443,
+        "z": 109.44461059570313
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6997066140174866,
+        "z": 0.0,
+        "w": 0.7144303321838379
+    },
+    "GUID": "8bda5ffd-a50b-47a5-b6e4-6c891fdffd37",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

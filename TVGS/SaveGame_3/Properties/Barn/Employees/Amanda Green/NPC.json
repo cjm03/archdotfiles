@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "amanda_green",
+    "AssignedProperty": "barn",
+    "FirstName": "Amanda",
+    "LastName": "Green",
+    "IsMale": false,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": 189.2021484375,
+        "y": 0.08999963849782944,
+        "z": -14.132190704345704
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.8744128346443176,
+        "z": 0.0,
+        "w": 0.48518267273902895
+    },
+    "GUID": "40c38ca4-7a07-4c34-b449-2a0007ac7fa2",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

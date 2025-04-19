@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 47,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -1723278065,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 164884691,
+            "Text": "Great, I'll meet you <b>behind the Crimson Canary</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1702052642,
+            "Text": "Hey, if you got 1x Afghan Cake I'll pay <color=#46CB4F>$380</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -473950979,
+            "Text": "How about 1x Afghan Cake for $421?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -641645699,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1531331384,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 962472507,
+            "Text": "Great, I'll meet you <b>on the wharf near the french restaurant</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1546535095,
+            "Text": "Hey, can I get 1x Afghan Cake? I'll pay <color=#46CB4F>$380</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1403221006,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1557629967,
+            "Text": "Great, I'll meet you <b>behind the auto shop</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

@@ -1,0 +1,42 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Dependence": 1.0,
+    "PurchaseableProducts": [
+        "icecreamshart"
+    ],
+    "ProductAffinities": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "TimeSinceLastDealCompleted": 321,
+    "TimeSinceLastDealOffered": 395,
+    "OfferedDeals": 110,
+    "CompletedDeals": 110,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 132,
+        "time": 1100
+    },
+    "TimeSincePlayerApproached": 1184448,
+    "TimeSinceInstantDealOffered": 1184448,
+    "HasBeenRecommended": false
+}

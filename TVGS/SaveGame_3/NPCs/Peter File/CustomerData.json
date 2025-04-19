@@ -1,0 +1,43 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Dependence": 0.9375,
+    "PurchaseableProducts": [
+        "bananacum",
+        "icecreamshart"
+    ],
+    "ProductAffinities": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "TimeSinceLastDealCompleted": 3866,
+    "TimeSinceLastDealOffered": 395,
+    "OfferedDeals": 103,
+    "CompletedDeals": 86,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 132,
+        "time": 1100
+    },
+    "TimeSincePlayerApproached": 6001,
+    "TimeSinceInstantDealOffered": 46343,
+    "HasBeenRecommended": false
+}

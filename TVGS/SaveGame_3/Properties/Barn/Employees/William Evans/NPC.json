@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "william_evans",
+    "AssignedProperty": "barn",
+    "FirstName": "William",
+    "LastName": "Evans",
+    "IsMale": true,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": 188.3936004638672,
+        "y": 18.917037963867189,
+        "z": 97.89610290527344
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6738960146903992,
+        "z": 0.0,
+        "w": 0.7388262152671814
+    },
+    "GUID": "588d737d-1b50-4b89-8ea6-e895db4b4c37",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

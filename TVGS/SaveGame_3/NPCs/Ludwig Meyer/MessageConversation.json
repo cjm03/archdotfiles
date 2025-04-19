@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 58,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 316220360,
+            "Text": "Hey, can I get 1x Afghan Cake? I'll pay <color=#46CB4F>$395</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 520743735,
+            "Text": "How about 1x Afghan Cake for $415?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1541885344,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1627617181,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1816687674,
+            "Text": "Great, I'll meet you <b>in front of the motel</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -718478693,
+            "Text": "Hello, I'm after 1x Afghan Cake. I can pay <color=#46CB4F>$395</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 18867747,
+            "Text": "How about 1x Afghan Cake for $445?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1140081664,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -387073040,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1968979187,
+            "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

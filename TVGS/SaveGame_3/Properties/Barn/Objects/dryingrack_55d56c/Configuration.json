@@ -1,0 +1,11 @@
+{
+    "DataType": "DryingRackConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "TargetQuality": {
+        "Value": 4
+    },
+    "Destination": {
+        "ObjectGUID": "b24c1861-d497-43b1-9c8c-bf32f09ac5ca"
+    }
+}

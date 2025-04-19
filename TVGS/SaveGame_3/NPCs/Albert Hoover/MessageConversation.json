@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 16,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -679511295,
+            "Text": "Greetings. You can now get your supplies delivered directly to your properties. Use the deliveries app on your phone to place an order.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 897800074,
+            "Text": "I've received $405 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1052009464,
+            "Text": "I need a dead drop:\n6x Granddaddy Purple Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2016676833,
+            "Text": "Got it. I'll let you know when it's ready. Should be about 3 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 647154099,
+            "Text": "The drop is ready. You can find it outside apartment 2 of the western apartment block",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1210893586,
+            "Text": "I'm still currently waiting on a payment of <color=#46CB4F>$270</color>. Please deposit it into my stash box when you've got a chance.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -536357406,
+            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2130287484,
+            "Text": "I've received $270 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -561202180,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 187122368,
+            "Text": "Agreed. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

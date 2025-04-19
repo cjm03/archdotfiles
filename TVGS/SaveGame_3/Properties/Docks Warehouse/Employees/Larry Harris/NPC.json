@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "larry_harris",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Larry",
+    "LastName": "Harris",
+    "IsMale": true,
+    "AppearanceIndex": 6,
+    "Position": {
+        "x": -88.84271240234375,
+        "y": -2.229999542236328,
+        "z": -54.68767547607422
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.018999086692929269,
+        "z": 0.0,
+        "w": -0.9998195171356201
+    },
+    "GUID": "ad92ee56-c9cb-408a-a1ee-2208421796d8",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cuke\",\"Quantity\":20}",
+        "GrabbedItemQuantity": 20,
+        "SourceGUID": "c4d34489-de2d-4436-9967-f3a31e3affec",
+        "DestinationGUID": "3389497d-04c4-4b95-9a7f-ed988f16a5ac"
+    }
+}

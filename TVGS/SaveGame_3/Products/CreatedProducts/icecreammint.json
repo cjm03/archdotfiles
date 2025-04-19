@@ -1,0 +1,25 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Ice Cream Mint",
+    "ID": "icecreammint",
+    "DrugType": 1,
+    "Properties": [
+        "thoughtprovoking"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 179,
+            "b": 213,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 255,
+            "g": 207,
+            "b": 229,
+            "a": 255
+        }
+    }
+}

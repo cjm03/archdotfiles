@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "c8118d56-6352-43e7-8880-4e0599a1ec8f",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Karen",
+    "Description": "Karen has requested a delivery of 1x Ice Cream Shart behind the dealership for $1,210.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Ice Cream Shart, Behind the dealership",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "b2f11684-1b0e-4cd3-8fb6-012ded4ea83e",
+    "Payment": 1210.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "icecreamshart",
+                "Quality": 3,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "9cf32715-1ec5-4dd2-94a9-0bf418f00161",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 1600
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 45,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 949757699,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 61618927,
+            "Text": "Alright cool, I'll meet you <b>at the basketball court</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 992483618,
+            "Text": "You got 1x Afghan Cake? I'll pay <color=#46CB4F>$395</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -123912150,
+            "Text": "How about 1x Afghan Cake for $435?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 556990218,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 459472202,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 962337399,
+            "Text": "Alright cool, I'll meet you <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -443808310,
+            "Text": "Hey, I need 1x Afghan Cake. I'll pay <color=#46CB4F>$395</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 359874491,
+            "Text": "nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2019543827,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

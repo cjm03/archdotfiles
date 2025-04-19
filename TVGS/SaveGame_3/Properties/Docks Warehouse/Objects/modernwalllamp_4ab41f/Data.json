@@ -1,0 +1,21 @@
+{
+    "DataType": "ToggleableSurfaceItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "4ab41fdd-cec6-4111-a515-1c50765bd4a9",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"modernwalllamp\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "ParentSurfaceGUID": "47cf1f2a-4ad0-4e4e-9ec1-b0ea986a8eaa",
+    "RelativePosition": {
+        "x": 0.5000241994857788,
+        "y": -0.34078603982925417,
+        "z": 0.026359781622886659
+    },
+    "RelativeRotation": {
+        "x": 0.4995410144329071,
+        "y": 0.4995410144329071,
+        "z": 0.5013744235038757,
+        "w": 0.4995410144329071
+    },
+    "IsOn": true
+}

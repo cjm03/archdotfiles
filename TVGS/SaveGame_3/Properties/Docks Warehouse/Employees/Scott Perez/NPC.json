@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "scott_perez",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Scott",
+    "LastName": "Perez",
+    "IsMale": true,
+    "AppearanceIndex": 5,
+    "Position": {
+        "x": -74.0531234741211,
+        "y": -2.429999828338623,
+        "z": -66.29926300048828
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.1016160249710083,
+        "z": 0.0,
+        "w": 0.994823694229126
+    },
+    "GUID": "089d0dfd-cc0c-4d18-b9f8-abee62c6aba9",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

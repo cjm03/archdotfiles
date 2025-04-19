@@ -1,0 +1,30 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Shiny Shart",
+    "ID": "shinyshart",
+    "DrugType": 1,
+    "Properties": [
+        "refreshing",
+        "sneaky",
+        "caloriedense",
+        "tropicthunder",
+        "electrifying",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 239,
+            "g": 255,
+            "b": 234,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 213,
+            "g": 228,
+            "b": 208,
+            "a": 255
+        }
+    }
+}

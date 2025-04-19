@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 5,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 236059639,
+            "Text": "Great, I'll meet you <b>behind the casino</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1260247441,
+            "Text": "Hey, can I get 1x Banana Cum? I'll pay <color=#46CB4F>$1,115</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 642516819,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1808147075,
+            "Text": "Great, I'll meet you <b>behind the casino</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 392219726,
+            "Text": "Hey, I need 1x Ice Cream Shart. I'll pay <color=#46CB4F>$1,210</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1545325301,
+            "Text": "How about 2x Ice Cream Shart for $2,110?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -431214968,
+            "Text": "Nope - nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -216782215,
+            "Text": "Hey, have you got 1x Banana Cum? I'll pay <color=#46CB4F>$1,115</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 831490653,
+            "Text": "How about 2x Banana Cum for $1,915?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1254416338,
+            "Text": "No way",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

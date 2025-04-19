@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "richard_clark",
+    "AssignedProperty": "barn",
+    "FirstName": "Richard",
+    "LastName": "Clark",
+    "IsMale": true,
+    "AppearanceIndex": 6,
+    "Position": {
+        "x": 177.17514038085938,
+        "y": -0.008779296651482582,
+        "z": -2.2936935424804689
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 3.874301341966202e-7
+    },
+    "GUID": "49a6edcc-ed3e-49e4-8ae3-dd28e6bb2213",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

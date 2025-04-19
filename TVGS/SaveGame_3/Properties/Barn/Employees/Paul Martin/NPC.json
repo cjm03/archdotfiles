@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "paul_martin",
+    "AssignedProperty": "barn",
+    "FirstName": "Paul",
+    "LastName": "Martin",
+    "IsMale": true,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": 195.0005645751953,
+        "y": 0.09000078588724137,
+        "z": -4.463194847106934
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.8613843321800232,
+        "z": 0.0,
+        "w": 0.5079538822174072
+    },
+    "GUID": "ef458a8f-bf2b-4968-8dbb-80d70d512b11",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "28fe0d28-7119-4556-aecf-2b4c35991f9a",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Javier",
+    "Description": "Javier has requested a delivery of 1x Ice Cream Shart Behind Randy's bait & tackle for $1,210.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Ice Cream Shart, Behind Randy's bait & tackle",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "817743d0-7153-4ded-be63-543bf5576934",
+    "Payment": 1210.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "icecreamshart",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "3f7cebba-abdd-4449-80ae-1d9a230df90c",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 1630
+    }
+}

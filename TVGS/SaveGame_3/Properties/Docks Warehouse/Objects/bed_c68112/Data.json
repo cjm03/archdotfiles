@@ -1,0 +1,22 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "c6811226-34bf-4c3a-8e03-5f22b9fc254a",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"bed\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "91f87f56-5caf-4c2a-bc3c-6548d0380cc4",
+    "OriginCoordinate": {
+        "x": 4.0,
+        "y": 0.0
+    },
+    "Rotation": -90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":600.0}",
+            "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1000.0}",
+            "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1000.0}",
+            "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1000.0}"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "george_lewis",
+    "AssignedProperty": "barn",
+    "FirstName": "George",
+    "LastName": "Lewis",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": 178.91802978515626,
+        "y": -0.008779296651482582,
+        "z": -3.2686665058135988
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.9914448261260986,
+        "z": 0.0,
+        "w": -0.1305265575647354
+    },
+    "GUID": "5cc6abd5-9b23-440e-bafc-9ca5640e20d2",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

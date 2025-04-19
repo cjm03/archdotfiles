@@ -1,0 +1,21 @@
+{
+    "DataType": "PackagingStationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "1c8cceb9-1e83-4bc1-b4ba-7e0b62d74d3c",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"packagingstationmk2\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "21e9315e-5ed0-48b9-9ee5-57a78e1498e0",
+    "OriginCoordinate": {
+        "x": 23.0,
+        "y": 39.0
+    },
+    "Rotation": 180,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

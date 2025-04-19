@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 18,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1496276788,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 527409507,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -463987122,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2126120021,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1677926418,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 808238488,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 252528763,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -765133213,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -647212999,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1482774744,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

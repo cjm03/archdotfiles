@@ -1,0 +1,20 @@
+{
+    "DataType": "SurfaceItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "e0ce7df5-640b-42c4-a5a0-d9fd0b85b3a9",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"artworkmillie\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 25,
+    "ParentSurfaceGUID": "aa817e6f-3f09-4e44-b5d2-12666ef213ba",
+    "RelativePosition": {
+        "x": 0.09000873565673828,
+        "y": 0.009775042533874512,
+        "z": 0.8884057402610779
+    },
+    "RelativeRotation": {
+        "x": 0.5013744235038757,
+        "y": 0.4995410144329071,
+        "z": 0.4995410144329071,
+        "w": 0.4995410144329071
+    }
+}

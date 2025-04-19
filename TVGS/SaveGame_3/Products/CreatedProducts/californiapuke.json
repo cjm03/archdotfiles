@@ -1,0 +1,29 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "California Puke",
+    "ID": "californiapuke",
+    "DrugType": 2,
+    "Properties": [
+        "calming",
+        "Euphoric",
+        "energizing",
+        "tropicthunder",
+        "antigravity"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 249,
+            "b": 242,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 255,
+            "g": 248,
+            "b": 231,
+            "a": 255
+        }
+    }
+}

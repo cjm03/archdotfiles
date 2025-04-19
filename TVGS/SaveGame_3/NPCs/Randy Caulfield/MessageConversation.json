@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 24,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 471848041,
+            "Text": "Hey, can I get 1x Ice Cream Shart? I'll pay <color=#46CB4F>$980</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1797772274,
+            "Text": "How about 1x Ice Cream Shart for $1,040?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1042963700,
+            "Text": "I guess that's fine. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1880791227,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1037539281,
+            "Text": "Great, I'll meet you <b>in the central canal near the car wash</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -522049765,
+            "Text": "You got 1x Ice Cream Shart? I'll pay <color=#46CB4F>$980</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 879380642,
+            "Text": "How about 1x Ice Cream Shart for $1,080?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1835149752,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1311872127,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -242119079,
+            "Text": "Great, I'll meet you <b>in the parking garage next to the casino</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

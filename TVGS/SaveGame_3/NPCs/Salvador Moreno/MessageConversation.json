@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 11,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 876902881,
+            "Text": "Your drop is ready. Grab it in the alleyway behind the laundromat",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -163600636,
+            "Text": "Okay. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1294183167,
+            "Text": "Okay. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -195201099,
+            "Text": "Okay. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1259904509,
+            "Text": "Okay. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 234178440,
+            "Text": "Okay. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 582513010,
+            "Text": "Okay. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1281697394,
+            "Text": "Okay. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1679922387,
+            "Text": "Okay. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2052542014,
+            "Text": "Okay. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

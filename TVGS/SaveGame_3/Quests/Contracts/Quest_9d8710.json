@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "9d87108e-12af-479e-b3bc-e69994f5dbea",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Kathy",
+    "Description": "Kathy has requested a delivery of 1x Ice Cream Shart next to the barbershop for $1,210.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Ice Cream Shart, Next to barbershop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "9375b541-2ffe-49f0-96fd-004231651f88",
+    "Payment": 1210.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "icecreamshart",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "40ffadb0-0dfb-408c-a940-f3dd81f04c89",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 1630
+    }
+}

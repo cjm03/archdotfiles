@@ -1,0 +1,39 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Bio Dick",
+    "ID": "biodick",
+    "DrugType": 0,
+    "Properties": [
+        "gingeritis",
+        "sedating",
+        "caloriedense"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 139,
+            "g": 110,
+            "b": 61,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 136,
+            "g": 111,
+            "b": 87,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 137,
+            "g": 110,
+            "b": 74,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 111,
+            "g": 88,
+            "b": 48,
+            "a": 255
+        }
+    }
+}

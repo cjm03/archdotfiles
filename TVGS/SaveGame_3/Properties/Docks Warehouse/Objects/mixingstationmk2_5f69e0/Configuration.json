@@ -1,0 +1,11 @@
+{
+    "DataType": "MixingStationConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Destination": {
+        "ObjectGUID": "bb1d45a1-5d33-4484-9688-e755eea01655"
+    },
+    "Threshold": {
+        "Value": 10.0
+    }
+}

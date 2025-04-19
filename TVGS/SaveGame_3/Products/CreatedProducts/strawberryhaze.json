@@ -1,0 +1,26 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Strawberry Haze",
+    "ID": "strawberryhaze",
+    "DrugType": 1,
+    "Properties": [
+        "sneaky",
+        "sedating"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 202,
+            "g": 202,
+            "b": 202,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 191,
+            "g": 189,
+            "b": 208,
+            "a": 255
+        }
+    }
+}

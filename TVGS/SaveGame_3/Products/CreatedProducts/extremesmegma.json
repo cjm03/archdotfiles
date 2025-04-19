@@ -1,0 +1,30 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Extreme Smegma",
+    "ID": "extremesmegma",
+    "DrugType": 1,
+    "Properties": [
+        "calming",
+        "refreshing",
+        "foggy",
+        "tropicthunder",
+        "electrifying",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 239,
+            "g": 255,
+            "b": 234,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 247,
+            "g": 250,
+            "b": 234,
+            "a": 255
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 34,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -186310271,
+            "Text": "Hey, I need 1x Ice Cream Shart. I'll pay <color=#46CB4F>$880</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 658948279,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -773967630,
+            "Text": "Great, I'll meet you <b>at the residential park</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 588413049,
+            "Text": "You got 1x Ice Cream Shart? I'll pay <color=#46CB4F>$900</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 309043993,
+            "Text": "How about 1x Ice Cream Shart for $930?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -673082850,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -462132716,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1048272395,
+            "Text": "Great, I'll meet you <b>behind the dealership</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

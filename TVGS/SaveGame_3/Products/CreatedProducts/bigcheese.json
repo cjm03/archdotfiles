@@ -1,0 +1,29 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Big Cheese",
+    "ID": "bigcheese",
+    "DrugType": 2,
+    "Properties": [
+        "paranoia",
+        "munchies",
+        "energizing",
+        "sedating",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 247,
+            "g": 234,
+            "b": 238,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 243,
+            "g": 224,
+            "b": 225,
+            "a": 255
+        }
+    }
+}

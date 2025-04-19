@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "jesse_brown",
+    "AssignedProperty": "barn",
+    "FirstName": "Jesse",
+    "LastName": "Brown",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": 180.98452758789063,
+        "y": -0.008779296651482582,
+        "z": -3.1117358207702638
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.866025447845459,
+        "z": 0.0,
+        "w": 0.5
+    },
+    "GUID": "957e3277-d250-4068-bddb-8b496101bd4c",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

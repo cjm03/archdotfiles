@@ -1,0 +1,24 @@
+{
+    "DataType": "ShopData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ShopCode": "boutique",
+    "ItemStockQuantities": [
+        {
+            "String": "artworklines",
+            "Int": 0
+        },
+        {
+            "String": "artworkmillie",
+            "Int": 0
+        },
+        {
+            "String": "artworkrapscallion",
+            "Int": 0
+        },
+        {
+            "String": "goldentoilet",
+            "Int": 0
+        }
+    ]
+}

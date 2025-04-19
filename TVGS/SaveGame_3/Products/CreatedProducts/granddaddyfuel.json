@@ -1,0 +1,39 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Granddaddy Fuel",
+    "ID": "granddaddyfuel",
+    "DrugType": 0,
+    "Properties": [
+        "sneaky",
+        "athletic",
+        "antigravity"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 99,
+            "g": 106,
+            "b": 85,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 120,
+            "g": 145,
+            "b": 145,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 109,
+            "g": 125,
+            "b": 115,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 79,
+            "g": 84,
+            "b": 68,
+            "a": 255
+        }
+    }
+}

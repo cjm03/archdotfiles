@@ -1,0 +1,32 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Ice Cream Shart",
+    "ID": "icecreamshart",
+    "DrugType": 2,
+    "Properties": [
+        "foggy",
+        "brighteyed",
+        "tropicthunder",
+        "glowie",
+        "giraffying",
+        "antigravity",
+        "cyclopean",
+        "zombifying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 224,
+            "g": 224,
+            "b": 224,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 174,
+            "g": 212,
+            "b": 156,
+            "a": 255
+        }
+    }
+}

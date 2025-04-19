@@ -1,0 +1,29 @@
+{
+    "DataType": "PotData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "46b275ec-6cfd-4263-aa6d-6fe8c76b1e52",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"plasticpot\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "f7694a89-9468-41be-bccd-91fe27cbe5e7",
+    "OriginCoordinate": {
+        "x": 1.0,
+        "y": 2.0
+    },
+    "Rotation": -90,
+    "SoilID": "",
+    "SoilLevel": 0.0,
+    "RemainingSoilUses": 0,
+    "WaterLevel": 0.0,
+    "AppliedAdditives": [],
+    "PlantData": {
+        "DataType": "PlantData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "SeedID": "",
+        "GrowthProgress": 0.0,
+        "YieldLevel": 0.0,
+        "QualityLevel": 0.0,
+        "ActiveBuds": []
+    }
+}

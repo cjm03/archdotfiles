@@ -1,0 +1,40 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "LA Cheese",
+    "ID": "lacheese",
+    "DrugType": 0,
+    "Properties": [
+        "gingeritis",
+        "sneaky",
+        "sedating",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 99,
+            "g": 106,
+            "b": 85,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 110,
+            "g": 108,
+            "b": 103,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 104,
+            "g": 107,
+            "b": 94,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 79,
+            "g": 84,
+            "b": 68,
+            "a": 255
+        }
+    }
+}

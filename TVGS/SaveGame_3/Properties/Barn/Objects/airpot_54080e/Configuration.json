@@ -1,0 +1,20 @@
+{
+    "DataType": "PotConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Seed": {
+        "ItemID": "cocaseed"
+    },
+    "Additive1": {
+        "ItemID": "fertilizer"
+    },
+    "Additive2": {
+        "ItemID": "pgr"
+    },
+    "Additive3": {
+        "ItemID": "speedgrow"
+    },
+    "Destination": {
+        "ObjectGUID": "55d56c0b-3a56-4ef1-9e12-7a72c7bfd77d"
+    }
+}

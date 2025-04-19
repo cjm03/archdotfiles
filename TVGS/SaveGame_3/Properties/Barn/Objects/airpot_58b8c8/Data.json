@@ -1,0 +1,50 @@
+{
+    "DataType": "PotData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "58b8c828-247e-408f-bd8e-bef4fc006e96",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"airpot\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 22.0,
+        "y": 24.0
+    },
+    "Rotation": -90,
+    "SoilID": "extralonglifesoil",
+    "SoilLevel": 20.0,
+    "RemainingSoilUses": 3,
+    "WaterLevel": 3.267533540725708,
+    "AppliedAdditives": [
+        "Growing/Fertilizer/Fertilizer_Additive",
+        "Growing/PGR/PGR_Additive",
+        "Growing/SpeedGrow/SpeedGrow_Additive"
+    ],
+    "PlantData": {
+        "DataType": "PlantData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "SeedID": "cocaseed",
+        "GrowthProgress": 1.0,
+        "YieldLevel": 1.100000023841858,
+        "QualityLevel": 0.40000003576278689,
+        "ActiveBuds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11,
+            14,
+            15,
+            16,
+            18,
+            19
+        ]
+    }
+}

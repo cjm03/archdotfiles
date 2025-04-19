@@ -1,0 +1,29 @@
+{
+    "DataType": "LabOvenData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "332d1e5c-13d1-4618-849b-bee8775bfbd1",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"laboven\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "d47666ba-6076-4779-9c8a-ffede5ff83ad",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 11.0
+    },
+    "Rotation": 90,
+    "InputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "OutputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "CurrentIngredientID": "cocainebase",
+    "CurrentIngredientQuantity": 10,
+    "CurrentIngredientQuality": 4,
+    "CurrentProductID": "cocaine",
+    "CurrentCookProgress": 223
+}

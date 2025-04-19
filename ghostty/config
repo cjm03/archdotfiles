@@ -1,0 +1,21 @@
+theme = nord-wave
+font-family = "IosevkaTerm NFM"
+font-style = "Medium"
+font-size = 14
+background-opacity = 0.90
+gtk-titlebar = false
+window-padding-x = 5
+window-padding-y = 6,0
+window-decoration = server
+
+
+#keybind = shift+caps_lock+h=new_split:left
+#keybind = shift+caps_lock+j=new_split:down
+#keybind = shift+caps_lock+k=new_split:up
+#keybind = shift+caps_lock+l=new_split:right
+
+#keybind = caps_lock+h=goto_split:left
+#keybind = caps_lock+j=goto_split:down
+#keybind = caps_lock+k=goto_split:up
+#keybind = caps_lock+l=goto_split:right
+

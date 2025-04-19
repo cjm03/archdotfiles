@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "kathy_taylor",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Kathy",
+    "LastName": "Taylor",
+    "IsMale": false,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": -167.60032653808595,
+        "y": -3.996445417404175,
+        "z": 107.49302673339844
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.3039838373661041,
+        "z": 0.0,
+        "w": 0.9526771903038025
+    },
+    "GUID": "b31015d1-0aba-4299-8105-76bdad8222d5",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

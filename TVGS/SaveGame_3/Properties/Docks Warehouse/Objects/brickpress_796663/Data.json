@@ -1,0 +1,21 @@
+{
+    "DataType": "BrickPressData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "796663d2-1c7b-45dd-8270-8c9a06c15202",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"brickpress\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "91f87f56-5caf-4c2a-bc3c-6548d0380cc4",
+    "OriginCoordinate": {
+        "x": 7.0,
+        "y": 23.0
+    },
+    "Rotation": -90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

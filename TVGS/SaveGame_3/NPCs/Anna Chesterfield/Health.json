@@ -1,0 +1,8 @@
+{
+    "DataType": "NPCHealthData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Health": 100.0,
+    "IsDead": false,
+    "DaysPassedSinceDeath": 1
+}

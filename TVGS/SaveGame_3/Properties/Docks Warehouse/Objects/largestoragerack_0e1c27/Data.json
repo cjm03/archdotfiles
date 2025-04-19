@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "0e1c276d-0839-47d4-b5d5-27e3a931d165",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "c38835d3-69f4-4900-9f64-23e1ebb26d55",
+    "OriginCoordinate": {
+        "x": 3.0,
+        "y": 0.0
+    },
+    "Rotation": 180,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"icecreamshart\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}"
+        ]
+    }
+}

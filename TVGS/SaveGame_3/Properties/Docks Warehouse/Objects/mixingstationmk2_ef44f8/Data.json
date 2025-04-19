@@ -1,0 +1,36 @@
+{
+    "DataType": "MixingStationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "ef44f808-6198-4420-bb17-9c5f8ab570f8",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"mixingstationmk2\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "21e9315e-5ed0-48b9-9ee5-57a78e1498e0",
+    "OriginCoordinate": {
+        "x": 19.0,
+        "y": 23.0
+    },
+    "Rotation": -90,
+    "ProductContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "MixerContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"gasoline\",\"Quantity\":20}"
+        ]
+    },
+    "OutputContents": {
+        "Items": [
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"strawberryfuel\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
+        ]
+    },
+    "CurrentMixOperation": {
+        "ProductID": "",
+        "ProductQuality": 0,
+        "IngredientID": "",
+        "Quantity": 0
+    },
+    "CurrentMixTime": 0
+}

@@ -1,0 +1,30 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Big Piss",
+    "ID": "bigpiss",
+    "DrugType": 1,
+    "Properties": [
+        "sneaky",
+        "jennerising",
+        "thoughtprovoking",
+        "tropicthunder",
+        "electrifying",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 202,
+            "g": 202,
+            "b": 202,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 202,
+            "g": 163,
+            "b": 181,
+            "a": 255
+        }
+    }
+}

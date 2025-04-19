@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "8cf48d48-6f6d-419f-b9c1-0885fb13959d",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Lucy",
+    "Description": "Lucy has requested a delivery of 1x Ice Cream Shart in the parking garage next to the casino for $1,280.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 1800
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Ice Cream Shart, Next to parking garage",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "c02c3b55-c89e-4280-9005-38a8b5aedd85",
+    "Payment": 1280.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "icecreamshart",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "84e64355-61b5-4054-a9e1-f562b95e429e",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1200,
+        "WindowEndTime": 1800
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 1345
+    }
+}

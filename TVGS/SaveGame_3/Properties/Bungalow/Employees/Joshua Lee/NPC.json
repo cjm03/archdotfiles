@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "joshua_lee",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Joshua",
+    "LastName": "Lee",
+    "IsMale": true,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": -169.03533935546876,
+        "y": -4.009015083312988,
+        "z": 107.86103820800781
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.5732410550117493,
+        "z": 0.0,
+        "w": 0.8193867802619934
+    },
+    "GUID": "d2484485-921e-48a7-9453-2978ed1e1cf7",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "christopher_wright",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Christopher",
+    "LastName": "Wright",
+    "IsMale": true,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": -89.21511840820313,
+        "y": -2.2299997806549074,
+        "z": -53.02050018310547
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.38267359137535097,
+        "z": 0.0,
+        "w": 0.9238836169242859
+    },
+    "GUID": "983641a1-f1f6-4b1f-9739-ed752283fc71",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

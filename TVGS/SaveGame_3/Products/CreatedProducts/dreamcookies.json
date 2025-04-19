@@ -1,0 +1,39 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Dream Cookies",
+    "ID": "dreamcookies",
+    "DrugType": 0,
+    "Properties": [
+        "gingeritis",
+        "caloriedense",
+        "thoughtprovoking"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 139,
+            "g": 109,
+            "b": 122,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 174,
+            "g": 125,
+            "b": 105,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 156,
+            "g": 117,
+            "b": 113,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 111,
+            "g": 87,
+            "b": 97,
+            "a": 255
+        }
+    }
+}

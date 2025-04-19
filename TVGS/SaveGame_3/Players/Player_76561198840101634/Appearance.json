@@ -1,0 +1,75 @@
+{
+    "Gender": 1,
+    "Weight": 1.0,
+    "SkinColor": {
+        "r": 0.17000000178813935,
+        "g": 0.15000000596046449,
+        "b": 0.12999999523162843,
+        "a": 1.0
+    },
+    "HairStyle": "Avatar/Hair/Mohawk/Mohawk",
+    "HairColor": {
+        "r": 0.6800000071525574,
+        "g": 0.20000000298023225,
+        "b": 0.7200000286102295,
+        "a": 1.0
+    },
+    "Mouth": "Avatar/Layers/Face/Face_Agitated",
+    "FacialHair": "Avatar/Layers/Face/FacialHair_Goatee",
+    "FacialDetails": "Avatar/Layers/Face/Freckles",
+    "FacialDetailsIntensity": 1.0,
+    "EyeballColor": {
+        "r": 1.0,
+        "g": 0.6499999761581421,
+        "b": 0.6499999761581421,
+        "a": 1.0
+    },
+    "UpperEyeLidRestingPosition": 1.0,
+    "LowerEyeLidRestingPosition": 1.0,
+    "PupilDilation": 1.0,
+    "EyebrowScale": 1.7000000476837159,
+    "EyebrowThickness": 2.5,
+    "EyebrowRestingHeight": 1.0,
+    "EyebrowRestingAngle": -10.0,
+    "Top": "",
+    "TopColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "Bottom": "",
+    "BottomColor": {
+        "r": 0.23000000417232514,
+        "g": 0.23000000417232514,
+        "b": 0.23000000417232514,
+        "a": 1.0
+    },
+    "Shoes": "",
+    "ShoesColor": {
+        "r": 0.47999998927116396,
+        "g": 0.3199999928474426,
+        "b": 0.2199999988079071,
+        "a": 1.0
+    },
+    "Headwear": "",
+    "HeadwearColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "Eyewear": "",
+    "EyewearColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+    },
+    "Tattoos": [
+        "Avatar/Layers/Tattoos/Chest/Chest_Bird",
+        "Avatar/Layers/Tattoos/LeftArm/LeftArm_Web",
+        "Avatar/Layers/Tattoos/RightArm/RightArm_Web",
+        "Avatar/Layers/Tattoos/Face/Face_Tribal"
+    ]
+}

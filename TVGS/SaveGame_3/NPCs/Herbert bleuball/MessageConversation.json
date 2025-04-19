@@ -1,0 +1,41 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 28,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -163031531,
+            "Text": "Hey, I need 2x Ice Cream Shart. I'll pay <color=#46CB4F>$1,890</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -810699702,
+            "Text": "How about 2x Ice Cream Shart for $1,980?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 937556718,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1030451888,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -510858574,
+            "Text": "Ok, I'll meet you <b>next to the courthouse</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

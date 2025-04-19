@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "anna_pinkman",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Anna",
+    "LastName": "Pinkman",
+    "IsMale": false,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": -72.97345733642578,
+        "y": -2.429999828338623,
+        "z": -62.81947326660156
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.5855227708816528,
+        "z": 0.0,
+        "w": 0.810655951499939
+    },
+    "GUID": "7973f8fa-25c9-4a2a-bafd-1024811e2f59",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

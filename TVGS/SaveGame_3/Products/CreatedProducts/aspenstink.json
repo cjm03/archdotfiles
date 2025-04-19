@@ -1,0 +1,27 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Aspen Stink",
+    "ID": "aspenstink",
+    "DrugType": 2,
+    "Properties": [
+        "paranoia",
+        "sneaky",
+        "antigravity"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 247,
+            "g": 234,
+            "b": 238,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 217,
+            "g": 197,
+            "b": 203,
+            "a": 255
+        }
+    }
+}

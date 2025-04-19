@@ -1,0 +1,11 @@
+{
+    "DataType": "PropertyData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "PropertyCode": "rv",
+    "IsOwned": true,
+    "SwitchStates": [
+        true
+    ],
+    "ToggleableStates": []
+}

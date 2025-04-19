@@ -1,0 +1,36 @@
+{
+    "DataType": "MixingStationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "b7ea8a9e-64be-4425-aa48-06023eb0cc80",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"mixingstationmk2\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "21e9315e-5ed0-48b9-9ee5-57a78e1498e0",
+    "OriginCoordinate": {
+        "x": 20.0,
+        "y": 20.0
+    },
+    "Rotation": 90,
+    "ProductContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "MixerContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "OutputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "CurrentMixOperation": {
+        "ProductID": "",
+        "ProductQuality": 0,
+        "IngredientID": "",
+        "Quantity": 0
+    },
+    "CurrentMixTime": 0
+}

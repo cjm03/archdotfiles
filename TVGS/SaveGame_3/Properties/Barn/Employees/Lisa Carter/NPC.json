@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "lisa_carter",
+    "AssignedProperty": "barn",
+    "FirstName": "Lisa",
+    "LastName": "Carter",
+    "IsMale": false,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": 181.92359924316407,
+        "y": -0.008779296651482582,
+        "z": -5.498568534851074
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.7071071267127991,
+        "z": 0.0,
+        "w": 0.7071065306663513
+    },
+    "GUID": "3ed5ce3b-a9ee-4e7e-ad2f-39af108366cc",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

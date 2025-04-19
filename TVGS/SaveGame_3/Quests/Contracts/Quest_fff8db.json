@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "fff8dba5-33bf-423e-a100-8b638aef9cd1",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Chris",
+    "Description": "Chris has requested a delivery of 2x Banana Cum Next to the destroyed RV for $1,915.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 133,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "2x Banana Cum, Destroyed RV",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "32f710fc-2812-48fb-beec-e81b30c14f43",
+    "Payment": 1915.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "bananacum",
+                "Quality": 3,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "4f13f483-b3be-4652-9975-78c6759992a5",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 132,
+        "Time": 1626
+    }
+}

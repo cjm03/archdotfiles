@@ -1,0 +1,38 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Thick Crack",
+    "ID": "thickcrack",
+    "DrugType": 0,
+    "Properties": [
+        "refreshing",
+        "caloriedense"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 103,
+            "g": 123,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 158,
+            "g": 149,
+            "b": 127,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 130,
+            "g": 136,
+            "b": 104,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 82,
+            "g": 98,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

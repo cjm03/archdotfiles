@@ -1,0 +1,25 @@
+{
+    "DataType": "DryingRackData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "00ecee1f-dd1d-4d97-9c7c-b5d45e63e407",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"dryingrack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 12.0
+    },
+    "Rotation": 90,
+    "Input": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "Output": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "DryingOperations": []
+}

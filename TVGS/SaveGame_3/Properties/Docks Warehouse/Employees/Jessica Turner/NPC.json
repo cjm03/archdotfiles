@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "jessica_turner",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Jessica",
+    "LastName": "Turner",
+    "IsMale": false,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": -83.98392486572266,
+        "y": -2.229999542236328,
+        "z": -51.003360748291019
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.5109670758247376,
+        "z": 0.0,
+        "w": 0.8596003651618958
+    },
+    "GUID": "c67df857-2a9f-40b4-bacf-c4a3d04855eb",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

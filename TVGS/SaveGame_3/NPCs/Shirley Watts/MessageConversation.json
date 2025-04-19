@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 19,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -746295719,
+            "Text": "I need a dead drop:\n10x Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -69791803,
+            "Text": "Working on it. Should be ready in around 5 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 180763883,
+            "Text": "The drop is ready. You can find it on the east-exterior wall of Taco Ticklers",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1531800055,
+            "Text": "I'm still currently waiting on a payment of <color=#46CB4F>$270</color>. Please deposit it into my stash box when you've got a chance.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1399612028,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -215188508,
+            "Text": "Hey, you've been great to work with so I'm willing to start doing in-person meetings with you. At a meeting, you buy as much pseudo as you can carry - no more order limits.",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -542260781,
+            "Text": "Just send me a text if you'd like to meet.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -957958067,
+            "Text": "I've received $800 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1603057160,
+            "Text": "Okay. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1455947497,
+            "Text": "Okay. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

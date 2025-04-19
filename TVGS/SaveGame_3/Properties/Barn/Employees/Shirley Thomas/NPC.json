@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "shirley_thomas",
+    "AssignedProperty": "barn",
+    "FirstName": "Shirley",
+    "LastName": "Thomas",
+    "IsMale": false,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": 177.2134552001953,
+        "y": -0.008779296651482582,
+        "z": -4.1410112380981449
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.9179843664169312,
+        "z": 0.0,
+        "w": 0.3966165781021118
+    },
+    "GUID": "ded41658-1b4b-4c33-8f9a-17edcdf0d6ca",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 6,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 777491020,
+            "Text": "Actually, nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1196384943,
+            "Text": "Hey, can I get 1x Banana Cum? I'll pay <color=#46CB4F>$1,115</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -643143964,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -3250428,
+            "Text": "Great, I'll meet you <b>at the skatepark</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1061253451,
+            "Text": "Hey, can I get 1x Banana Cum? I'll pay <color=#46CB4F>$1,115</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 721166087,
+            "Text": "How about 2x Banana Cum for $1,815?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -182775693,
+            "Text": "Not gonna happen. I'll get it somewhere else",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 495969125,
+            "Text": "Hello, I'm after 1x Banana Cum. I can pay <color=#46CB4F>$1,115</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -539862916,
+            "Text": "How about 2x Banana Cum for $1,915?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -88652288,
+            "Text": "No way",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

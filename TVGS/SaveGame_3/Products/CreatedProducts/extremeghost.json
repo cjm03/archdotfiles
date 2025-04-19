@@ -1,0 +1,25 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Extreme Ghost",
+    "ID": "extremeghost",
+    "DrugType": 1,
+    "Properties": [
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 178,
+            "b": 107,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 255,
+            "g": 207,
+            "b": 163,
+            "a": 255
+        }
+    }
+}
